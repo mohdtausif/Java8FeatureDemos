@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.functional_interface;
 
 import java.util.Arrays;
 import java.util.List;

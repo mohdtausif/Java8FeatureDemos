@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.base64;
 
 import java.io.UnsupportedEncodingException;
 import java.util.Base64;

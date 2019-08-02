@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.call_js_from_java;
 
 import javax.script.ScriptEngineManager;
 import javax.script.ScriptEngine;

@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.streams;
 
 import java.util.Arrays;
 import java.util.IntSummaryStatistics;

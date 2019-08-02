@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.optional_class;
 
 import java.util.Optional;
 

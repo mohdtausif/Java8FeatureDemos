@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.method_reference;
 
 import java.util.ArrayList;
 import java.util.List;

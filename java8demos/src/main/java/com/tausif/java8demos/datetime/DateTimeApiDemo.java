@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.datetime;
 
 import java.time.DayOfWeek;
 import java.time.Duration;

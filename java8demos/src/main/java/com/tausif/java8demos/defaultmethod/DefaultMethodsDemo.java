@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.defaultmethod;
 
 public class DefaultMethodsDemo implements Vehicle, FourWheeler
 {

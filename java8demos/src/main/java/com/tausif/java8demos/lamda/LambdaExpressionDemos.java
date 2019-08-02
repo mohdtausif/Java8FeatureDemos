@@ -1,4 +1,4 @@
-package com.tausif.java8demos;
+package com.tausif.java8demos.lamda;
 
 public class LambdaExpressionDemos {
 	
@@ -20,6 +20,8 @@ public class LambdaExpressionDemos {
 		
 		//with parenthesis
 		GreetingService greetService1 = message->System.out.println(salutation + message);
+		
+		
 		//without parenthesis
 		GreetingService greetService2 = (message)->System.out.println(salutation + message);
 		greetService1.sayMessage("Mahesh");
@@ -31,7 +33,6 @@ public class LambdaExpressionDemos {
 	{ 
 		return mathOperation.operation(a, b);
 	}
-
 }
 
 
